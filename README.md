@@ -6,3 +6,4 @@ Add yourself to the list below:
 | Name (First and Last Name) | GH username | cs account name | Favorite vacation place |
 | --- | --- | --- | --- |
 | Lisa Leese | laleese | mlalano | Santorini, Greece |
+| Florita Alano | ff-alano | falano | Rome, Italy | 
