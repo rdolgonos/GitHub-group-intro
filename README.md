@@ -3,7 +3,7 @@ Let's get our class repository going!
 
 Add yourself to the list below:
 
-| Name (First and Last Name) | GH username | cs account name | Favorite vacation place |
+| Name (First and Last Name) | GH username | USF account name | Favorite restaurant in SF |
 | --- | --- | --- | --- |
-| Lisa Leese | laleese | mlalano | Santorini, Greece |
-| Taylor Leese | taylorleese | tleese | Beijing, China | 
+| Lisa Leese | laleese | mlleese | Flour + Water |
+| Flor Alano | ff-alano | falano | House of Prime Rib | 
