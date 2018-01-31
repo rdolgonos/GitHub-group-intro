@@ -6,4 +6,4 @@ Add yourself to the list below:
 | Name (First and Last Name) | GH username | USF account name | Favorite restaurant in SF |
 | --- | --- | --- | --- |
 | Lisa Leese | laleese | mlleese | Flour + Water |
-| Flor Alano | ff-alano | falano | House of Prime Rib | 
+| Fil Alano | filalano | falano | House of Prime Rib | 
